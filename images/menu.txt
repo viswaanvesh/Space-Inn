@@ -1,0 +1,34 @@
+Burger :
+Chile-Stuffed Cheese .......... $4.99
+Blackbean .......... $5.99
+Cheddar and Onion Smashed .......... $6.99
+Spicy crispy chicken .......... $ 7.99
+Grilled chicken .......... $8.99
+
+Pizzas:
+Supreme .......... $8.99
+Mushroom .......... $9.99 
+Margherita .......... $10.99
+Hawaiian .......... $11.99
+Mexican .......... $12.99
+
+
+Bowls:
+Chicken rice .......... $7.99
+Broccoli stuffed .......... $6.99
+Veggie special .......... $6.99
+Sweet & sour pasta .......... $5.99
+Thai noodle .......... $8.99
+
+Ice-cream:
+Chocolate .......... $5.99
+Vanilla .......... $5.99
+Strawberry .......... $5.99
+Butterscotch .......... $5.99
+
+Beverages:
+Soda .......... $2.99
+Chocolate smoothie .......... $5.99
+Fresh orange .......... $4.99
+Bubble tea .......... $6.99
+Latte coffee .......... $3.99

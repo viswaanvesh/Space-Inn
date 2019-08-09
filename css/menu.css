@@ -1,0 +1,246 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    animation: fadein 2s;   
+    
+}
+
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+
+body { 
+    
+    /*background-image: url(restaurant-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center*/
+    background-color: white;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    
+}
+
+/*header*/
+header .container
+{
+    min-height: 40px;
+    width: auto;
+    margin-left: 0;
+    background-color: black;
+    padding: 20px;
+    margin-top: 0;
+    font-family: boulevard;
+      
+}
+
+.title {
+    float: left;
+    color: white;
+    font-size: 30px;
+    margin: 0 0 0 50px;
+    display: inline-block;
+    padding: 0;
+    font-family: earth orbiter;
+}
+
+
+header a {
+    color: white;
+    text-decoration: none;
+    
+}
+
+header ul {
+    margin-top: 0;
+    padding: 0;
+    width: 1000px;
+    height: 40px;
+    margin-left: 500px;
+}
+
+header li {
+    float: left;
+    display: inline-block;
+    margin: 5px 50px 0 60px;
+    
+}
+
+header a:hover {
+    color: darkgrey;
+}
+
+
+/*burgers*/
+
+
+.Burgers img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    float: right;
+    margin: 40px 10px 20px 0;
+        
+}
+
+.Burgers p {
+    font-size: 40px;
+    font-family: earth orbiter;
+    height: auto;
+    width: auto;
+}
+
+.Burgers {
+    width: 40%;
+    height: 250px;
+    float: left;
+    margin: 40px 40px 40px 80px;
+    padding: 0px;
+   ;
+}
+
+.Burgers li {
+    font-family: boulevard;
+    margin-top: 10px;
+}
+
+/*pizzas*/
+.Pizzas img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    float: right;
+    margin: 40px 10px 20px 0;
+    
+}
+
+.Pizzas p {
+    font-size: 40px;
+    font-family: earth orbiter;
+    height: auto;
+    width: auto;
+}
+
+.Pizzas {
+    background-color: none;
+    width: 40%;
+    height: 250px;
+    margin: 40px;
+    padding: 0px;
+    float: right;
+    
+}
+
+.Pizzas li {
+    font-family: boulevard;
+    margin-top: 10px;
+}
+/*ice-cream*/
+.Ice-cream img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    float: right;
+    margin: 40px 10px 20px 0;
+    
+}
+
+.Ice-cream p {
+    font-family: earth orbiter;
+    font-size: 40px;
+    height: auto;
+    width: auto;
+}
+
+.Ice-cream {
+    background-color: none;
+    width: 40%;
+    height: 250px;
+    float: right;
+    margin: 40px;
+    padding: 0px;
+    
+}
+
+.Ice-cream li {
+    font-family: boulevard;
+    margin-top: 10px;
+}
+
+/*bowls*/
+.Bowls img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    float: right;
+    margin: 40px 10px 20px 0;
+    
+}
+
+.Bowls p {
+    font-family: earth orbiter;
+    font-size: 40px;
+    height: auto;
+    width: auto;
+}
+
+.Bowls {
+    background-color: none;
+    width: 40%;
+    height: 250px;
+    margin: 40px 40px 40px 80px;
+    padding: 0px;
+    float: left;
+    
+}
+
+.Bowls li {
+    font-family: boulevard;
+    margin-top: 10px;
+}
+
+/*beverages*/
+.Beverages img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    float: right;
+    margin: 40px 10px 20px 0;
+    
+    
+}
+
+.Beverages p {
+    font-size: 40px;
+    font-family: earth orbiter;
+    height: auto;
+    width: auto;
+}
+
+.Beverages {
+    background-color: none;
+    width: 40%;
+    height: 250px;
+    margin: 40px 40px 40px 70px;
+    padding: 0px;
+    float: left;
+    position: absolute;
+    left: 10px;
+    top: 700px;
+  
+}
+
+.Beverages li {
+    margin-top: 10px;
+    font-family: boulevard;
+}
